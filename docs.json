@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "Vyntage RP",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -68,5 +68,6 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  }
+  },
+  "description": "💜💿 Welcome to Vyntage RP!\n\nWelcome to Vyntage RP, an Atlanta-based city bringing the culture, style, and energy of the early-2000s Dirty South back to life.\n\nFrom the streets and nightlife to businesses, music, fashion, and everyday life, Vyntage captures the nostalgia of Y2K Atlanta while creating a world built around Quality experiences, creativity, and community.\n\nWhether you're building your reputation in the streets, running a business, making connections, or simply enjoying everything the city has to offer, Your story is yours to create.\n\nWelcome to the Dirty South. Welcome to Vyntage.💜"
 }
